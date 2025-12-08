@@ -101,6 +101,26 @@ Token issuance + reconciliation
 Dynamic account updates
 
 
-Screenshots
 
-"D:\RuPay.G.O-proof\WhatsApp Image 2025-12-08 at 22.50.29_4879bb87.jpg"
+## 📱 App Screenshots
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center">
+  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_4489186f.jpg?raw=true" width="250" />
+  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_4879bb87.jpg?raw=true" width="250" />
+  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_fe1f07b2.jpg?raw=true" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.31_20413732.jpg?raw=true" width="250" />
+  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.30_2260d7d8.jpg?raw=true" width="250" />
+  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.30_a5859c4a.jpg?raw=true" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.30_cde7bf9f.jpg?raw=true" width="250" />
+  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2023.02.26_dbae8216.jpg?raw=true" width="250" />
+</p>
+
+
+
