@@ -107,8 +107,9 @@ Dynamic account updates
 
 <p align="center">
  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_4879bb87.jpg?raw=true" width="250" />
+ <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_fe1f07b2.jpg?raw=true" width="250" />
   <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_4489186f.jpg?raw=true" width="250" />
-  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_fe1f07b2.jpg?raw=true" width="250" />
+  
 </p>
 
 <p align="center">
