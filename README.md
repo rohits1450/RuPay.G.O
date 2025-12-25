@@ -102,26 +102,10 @@ Dynamic account updates
 
 
 
-## 📱 App Screenshots
+## 📱Demo Video 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">
- <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_4879bb87.jpg?raw=true" width="250" />
- <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_fe1f07b2.jpg?raw=true" width="250" />
-  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.29_4489186f.jpg?raw=true" width="250" />
-  
-</p>
-
-<p align="center">
-  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.31_20413732.jpg?raw=true" width="250" />
- <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2023.02.26_dbae8216.jpg?raw=true" width="250" />
-  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.30_2260d7d8.jpg?raw=true" width="250" /> 
-</p>
-
-<p align="center">
-  <img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.30_a5859c4a.jpg?raw=true" width="250" />
-<img src="https://github.com/rohits1450/RuPay.G.O/blob/master/RuPay.G.O-proof/WhatsApp%20Image%202025-12-08%20at%2022.50.30_cde7bf9f.jpg?raw=true" width="250" />
-</p>
+[Click here for the Demo Video](https://drive.google.com/drive/folders/1OMM1HvUtft36tmipoUrmLnnY9JEWogqN?usp=sharing)
 
 
 
