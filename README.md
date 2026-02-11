@@ -90,9 +90,7 @@ Token storage with reactive balance
 
 🖥 Backend (Node.js Server)
 
-Express.js
-
-SQLite (lightweight ledger)
+Firebase Cloud Firestore
 
 Crypto for signature validation
 
