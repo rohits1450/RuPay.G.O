@@ -90,7 +90,9 @@ Token storage with reactive balance
 
 🖥 Backend (Node.js Server)
 
-Firebase Cloud Firestore
+Firebase Cloud Firestore(Backend)
+
+AWS storages
 
 Crypto for signature validation
 
