@@ -92,8 +92,6 @@ Token storage with reactive balance
 
 Firebase Cloud Firestore(Backend)
 
-AWS storages
-
 Crypto for signature validation
 
 Token issuance + reconciliation
